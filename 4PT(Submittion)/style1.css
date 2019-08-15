@@ -1,0 +1,23 @@
+body{
+	background-color: black; 
+	font-family: Horrorfind; 
+}
+button{
+	font-size: 100px;
+	 color: red; 
+	 background-color: black; 
+	 font-family: Horrorfind;
+}
+
+p{
+	text-align: center; 
+	font-size: 200px;
+	 color: red;
+}
+
+input{
+	font-family: horrorfind; 
+	background-color: red; 
+	font-size: 30px; 
+	border-color: black;
+}
